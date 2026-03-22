@@ -111,3 +111,49 @@ En industrias como energía, manufactura y petróleo, este tipo de soluciones pu
 ## ▶️ Ejecución del Proyecto
 
 El notebook principal se encuentra en:
+
+notebooks/final_project.ipynb
+
+El proyecto puede ejecutarse directamente en **Google Colab**.
+
+✔ El notebook es completamente reproducible  
+✔ Se ejecuta de inicio a fin sin errores  
+
+---
+
+## 📹 Video Explicativo
+
+Enlace al video (YouTube):
+
+https://www.youtube.com/XXXXXXXX
+
+---
+
+## 🧾 Estructura del Repositorio
+
+DL-Final-Pinillos-Alfredo/
+│
+├── notebooks/
+│ └── final_project.ipynb
+│
+├── README.md
+
+
+---
+
+## 🚀 Conclusiones
+
+Se demostró que es posible predecir fallas operativas utilizando modelos de deep learning basados en datos de operación.
+
+La red neuronal presenta un mejor desempeño frente al modelo baseline, evidenciando su capacidad para capturar patrones complejos.
+
+Este enfoque puede ser extendido a aplicaciones reales de monitoreo y mantenimiento predictivo en entornos industriales.
+
+---
+
+## 📌 Mejoras Futuras
+
+- Balanceo de clases  
+- Optimización de hiperparámetros  
+- Evaluación de modelos adicionales  
+- Implementación en sistemas de monitoreo en tiempo real  
