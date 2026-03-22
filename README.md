@@ -125,7 +125,7 @@ El proyecto puede ejecutarse directamente en **Google Colab**.
 
 Enlace al video (YouTube):
 
-[https://www.youtube.com/XXXXXXXX](https://youtu.be/UlHYTV59iew)
+https://youtu.be/UlHYTV59iew
 
 ---
 
