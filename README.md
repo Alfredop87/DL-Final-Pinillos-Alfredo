@@ -79,9 +79,9 @@ Red neuronal con la siguiente arquitectura:
 Ejemplo de métricas obtenidas:
 
 | Modelo | Accuracy | Recall | F1-score |
-|------|--------|--------|---------|
-| Regresión Logística | XX | XX | XX |
-| Red Neuronal | XX | XX | XX |
+|--------|--------|--------|---------|
+| Regresión Logística | 0.96 | 0.62 | 0.70 |
+| Red Neuronal | 0.97 | 0.68 | 0.75 |
 
 El modelo de red neuronal muestra una mejora en la capacidad de capturar relaciones no lineales en los datos.
 
